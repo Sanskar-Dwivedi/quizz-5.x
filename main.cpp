@@ -2,6 +2,8 @@
 #include <string>
 #include <string_view>
 
+// OOh god this is really messy
+
 int main(){
     std::cout<<"Enter the name of person #1: ";
     std::string name1{};
